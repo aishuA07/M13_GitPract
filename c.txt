@@ -1,1 +1,2 @@
 This is the first line in c.txt
+This is the second line in c.txt
